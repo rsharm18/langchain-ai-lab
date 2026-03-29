@@ -6,9 +6,10 @@ An interactive AI-powered trip planner built using **Gradio + LangChain + Groq**
 
 ## 🚀 Demo
 
-![Demo](assets/demo.gif)
+![Demo](https://github.com/rsharm18/langchain-ai-lab/blob/main/trip_planner/AITripAgent-1-ezgif.com-optimize.gif)
 
-> DEMO
+> !![Demo](https://github.com/rsharm18/langchain-ai-lab/blob/main/trip_planner/AITripAgent-1-ezgif.com-optimize.gif)
+
 
 ---
 
