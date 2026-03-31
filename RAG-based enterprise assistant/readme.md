@@ -3,6 +3,9 @@
 ## Overview
 This project is an AI-powered HR assistant that allows users to query company HR policies using natural language. It leverages Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses from internal documents.
 
+## DEMO
+![Demo](https://github.com/rsharm18/langchain-ai-lab/blob/main/RAG-based%20enterprise%20assistant/PDFFile_RAG_DEMO.gif)
+
 ## Features
 - 📄 PDF document ingestion (HR policy)
 - ✂️ Intelligent text chunking
